@@ -1,0 +1,40 @@
+*
+{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container
+{	
+	max-width:1140px;
+	margin:0px auto;
+}
+.clear
+{
+	clear:both;
+}
+.card
+{
+	width:30%;
+	margin:10px 18px;
+	float:left;
+}
+.card .card-img
+{
+	width:100%;
+	height:300px;
+		float:left;
+}
+.card-img img
+{
+	width:100%;
+	height:100%;
+	object-fit:cover;
+}
+.card .card-content
+{
+	width:100%;
+	background-color:silver;
+	padding:20px;
+	float:left;
+}

@@ -1,0 +1,136 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.container{
+	max-width:1440px;
+	margin:0 auto;
+}
+
+h1{
+	font-family: 'Oswald';
+    src: url(../font/Oswald-Regular.woff2') format('woff2'),
+        url(../font/Oswald-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+	text-align:center;
+	padding:20px;
+	word-spacing:5px;
+	font-weight:700;
+	font-size:50px;
+	color:white;
+}
+
+p{
+	word-spacing:5px;
+	font-style:bold;
+	line-height:30px;
+	text-indent:50px;
+	font-weight:700;
+	font-size:25px;
+	color:white;
+}
+.box1{
+	width:100%;
+	height:800px;
+	background-color:black;
+	text-align:justify;
+	margin-top:50px;
+	padding:30px;
+	border-radius:30px;
+	margin-bottom:0px;
+	border:10px solid black;
+}
+	
+
+
+
+.box2{
+	width:100%;
+	height:700px;
+	background-repeat:no repeat;
+	background-size:cover;
+	background-image:url('../img/car.jpg');
+	margin-top:50px;
+	background-position:center;
+	border:10px solid black;
+	background-attachment:fixed;
+	background-blend-mode:darken;
+	border-radius:30px;
+	
+}
+
+
+
+.box3{
+	width:100%;
+	height:800px;
+	margin-top:50px;
+	background: linear-gradient(174deg, rgba(125,130,197,0.9737394957983193) 30%, rgba(0,1,5,1) 89%);
+	border:10px solid black;
+	border-radius:30px;
+}
+.box4{
+	width:100%;
+	height:800px;
+	background-repeat:no repeat;
+	background-size:cover;
+	background-image:url('../img/car1.jpg');
+	margin-top:50px;
+	background-position:center;
+	background-attachment:fixed;
+	border:10px solid black;
+	background-color:rgba(0,0,0,0.2);
+	background-blend-mode:darken;
+	border-radius:30px;
+	
+}
+
+.box5{
+	width:100%;
+	height:800px;
+	margin-top:50px;
+	background: linear-gradient(175deg, rgba(190,232,160,1) 0%, rgba(0,255,169,0.9761439732142857) 4%, rgba(1,11,6,1) 100%);
+	border:10px solid black;
+	border-radius:30px;
+}
+.box6{
+	width:100%;
+	height:800px;
+	background-repeat:no repeat;
+	background-size:cover;
+	background-image:url('../img/car3.jpg');
+	margin-top:50px;
+	background-position:center;
+	background-attachment:fixed;
+	border:10px solid black;
+	border-radius:30px;
+	
+}
+
+.box7{
+	width:100%;
+	height:800px;
+	margin-top:50px;
+	background: linear-gradient(167deg, rgba(7,5,26,0.9737394957983193) 6%, rgba(17,8,100,0.9737394957983193) 30%, rgba(68,81,199,1) 64%, rgba(110,126,234,1) 72%, rgba(130,144,226,1) 76%, rgba(116,137,240,1) 83%, rgba(44,78,229,1) 95%);
+	border:10px solid black;
+	border-radius:30px;
+
+}
+
+
+.box8{
+	width:100%;
+	height:800px;
+	background-repeat:no repeat;
+	background-size:cover;
+	background-image:url('../img/car4.jpg');
+	margin-top:50px;
+	background-position:center;
+	background-attachment:fixed;
+	border:10px solid black;
+	border-radius:30px;
+	
+}

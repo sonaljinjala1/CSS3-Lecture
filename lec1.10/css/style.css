@@ -1,0 +1,166 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.container{
+	max-width:1140px;
+	margin:0 auto;
+}	
+
+
+.card{
+	width:30%;
+	float:left;
+	display:block;
+	margin:	 50px 5px ;
+	
+}
+
+.card .god-img{
+	width:100%;
+	height:300px;
+	margin: 0px 10px ;
+	overflow:hidden;
+	object-fit:cover;
+	transition:0.5s;
+	
+}
+
+.card .god-img img{
+	width:100%;
+	height:100%;
+	object-fit:cover;
+	margin:0px auto;	
+	transition:0.5s;
+}
+
+.card .contant {
+	background-color:#FFA500;
+	padding:10px;
+	margin: 0px  10px ;
+	width:100%;
+}
+
+.card .contant  h1{
+	font-size:30px;
+	color:white;
+	text-align:center;
+	text-indent:5px;
+} 
+
+.card .contant p{
+	color:white;
+	text-align:justify;
+	padding:15px;
+	text-indent:30px;
+	font-size:20px;
+}
+
+.card .contant button{
+	font-size:20px;
+	padding:10px;
+	color:white;
+	background-color:#E2A76F;
+	margin:10px auto;
+	display:block;
+	border:0;		
+}
+
+.clear{
+	clear:both;
+}
+
+.card:first-child:hover img{
+	transform:rotate(-180deg);
+}
+
+
+.card:nth-child(2):hover img{
+	transform:scale(0.5);
+}
+
+
+.card:nth-child(3):hover img{
+	transform:rotate(180deg);
+}
+
+
+.card:nth-child(5):hover img{
+	transform:skew(180deg);
+}
+
+.card:nth-child(6):hover img{
+	transform:scale(1.5);
+}
+
+.card:nth-child(7):hover img{
+	transform:translate(50%);
+}
+
+.card:nth-child(9):hover img{
+	transform:translate(90%);
+}
+
+.card:nth-child(10):hover img{
+	transform:scaley(1.90);
+}
+
+.card:nth-child(11):hover img{
+	transform:skew(180deg);
+}
+
+
+.card:nth-child(13):hover img{
+	transform:rotate(-140deg);
+}
+
+.card:nth-child(14):hover img{
+	transform:scalex(1.5);
+}
+
+.card:nth-child(15):hover img{
+	transform:skew(180deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+ 

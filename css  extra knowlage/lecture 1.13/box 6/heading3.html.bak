@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>
+			TITLE
+		</title>
+		<link href="css/style.css" rel="stylesheet">
+	</head>
+	<body>
+		<section>
+			<div class="container">
+				<div class="main">
+					<div class="card">
+						<h1>CSS  -  TRICKS</h1>
+					</div>
+				</div>
+			</div>
+		</section>
+	
+	
+	</body>
+</html>

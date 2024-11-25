@@ -1,0 +1,343 @@
+*
+{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+.container
+{
+	margin:0px auto;
+	max-width:1140;	
+}
+.main-box
+{
+	margin:50px 150px ;
+	width:80%;
+	padding:100px;
+	background-color:lightblue;
+}
+
+.float1
+{
+	float:left;
+	width:33.33%;
+	background-color:#6698FF;
+	border:2px solid blue;
+	border-radius:5px;
+}
+.float1 img
+{
+	background-image:url('../img/rainbow.jpg');
+	background-size:cover;
+	width:100%;
+}
+.float2
+{	
+	float:right;
+	width:33.33%;
+	background-color:#6698FF;
+	border:2px solid blue;
+	border-radius:5px;
+	FONT-SIZE:16.9px;
+}
+.float2 p
+{
+	padding:5px;
+}
+
+.float3
+{	
+	PADDING:2PX;
+	float:right;
+	width:33.33%;
+	background-color:#6698FF;
+	border:2px solid BLUE;
+	border-radius:5px;
+	text-align:justify;
+}
+.float3 video
+{
+	width:100%;
+}
+.float3 h1
+{
+	background: rgb(233,94,48);
+	background: linear-gradient(90deg, rgba(233,94,48,1) 18%, rgba(233,42,226,1) 44%, rgba(0,212,255,0.9809173669467787) 61%);
+	text-align:center;
+}
+.clear{
+	clear:both;
+}
+.main-box2
+{
+	margin:50px 150px ;
+	width:80%;
+	padding:100px;
+	background-color:#FDD7EA;
+}
+.float4
+{
+	float:left;
+	width:33.33%;
+	background-color:#FFB2D0;
+	border:2px solid #E75480;
+}
+.float4 img
+{
+	background-image:url('../img/spring.jpg');
+	background-size:cover;
+	width:100%;
+}
+.float5
+{	
+	float:right;
+	width:33.33%;
+	background-color:#FFB2D0;
+	border:2px solid #E75480;
+	border-radius:5px;
+	FONT-SIZE:14.9px;
+}
+.float5 p
+{
+	padding:5px;
+}
+.float6
+{	
+	float:right;
+	width:33.33%;
+	background-color:#FFB2D0;
+	border:2px solid #E75480;
+	text-align:justify;
+}
+.float6 video
+{
+	width:100%;
+}
+.float6 h1
+{
+	background: rgb(194,48,233);
+	background: linear-gradient(90deg, rgba(194,48,233,1) 18%, rgba(233,42,213,1) 53%, rgba(255,0,198,0.9809173669467787) 80%);
+	text-align:center;;
+}
+.clear{
+	clear:both;
+}
+
+.main-box3
+{
+	margin:50px 150px ;
+	width:80%;
+	padding:100px;
+	background-color:#EDE275;
+}
+.float7
+{
+	float:left;
+	width:33.33%;
+	background-color:#ffe200;
+	border:2px solid yellow;
+}
+.float7 img
+{
+	background-image:url('../img/summer.jpg');
+	background-size:cover;
+	width:100%;
+}
+.float8
+{	
+	float:right;
+	width:33.33%;
+	background-color:#ffe200;
+	border:2px solid yellow;
+	border-radius:5px;
+	FONT-SIZE:15.8px;
+}
+.float8 p
+{
+	padding:5px;
+}
+.float9
+{	
+	float:right;
+	width:33.33%;
+	background-color:#ffe200;
+	border:2px solid yellow;
+	text-align:justify;
+}
+.float9 video
+{
+	width:100%;
+}
+.float9 h1
+{
+	background: rgb(233,190,48);
+	background: linear-gradient(90deg, rgba(233,190,48,1) 27%, rgba(255,226,0,0.9809173669467787) 87%);
+	text-align:center;;
+}
+.clear{
+	clear:both;
+}
+
+.main-box4
+{
+	margin:50px 150px ;
+	width:80%;
+	padding:100px;
+	background-color:#87ceeb;
+}
+.float10
+{
+	float:left;
+	width:33.33%;
+	background-color:#95b9c7;
+	border:2px solid #87afc7;
+}
+.float10 img
+{
+	background-image:url('../img/monsoon.jpg');
+	background-size:cover;
+	width:100%;
+}
+.float11
+{	
+	float:right;
+	width:33.33%;
+	background-color:#95b9c7;
+	border:2px solid #87afc7;
+	border-radius:5px;
+	FONT-SIZE:15px;
+}
+.float11 p
+{
+	padding:5px;
+}
+.float12
+{	
+	float:right;
+	width:33.33%;
+	background-color:#95b9c7;
+	border:2px solid #87afc7 ;
+	text-align:justify;
+}
+.float12 video
+{
+	width:100%;
+}
+.float12 h1
+{
+	background: rgb(28,136,242);
+	background: linear-gradient(90deg, rgba(28,136,242,1) 15%, rgba(77,156,225,1) 45%);
+	text-align:center;;
+}
+.clear{
+	clear:both;
+}
+.main-box5
+{
+	margin:50px 150px ;
+	width:80%;
+	padding:100px;
+	background-color:#eb5406;
+}
+.float13
+{
+	float:left;
+	width:33.33%;
+	background-color:#c34a2c;
+	border:2px solid #c34a2c;
+}
+.float13 img
+{
+	background-image:url('../img/autumn.jpg');
+	background-size:cover;
+	width:100%;
+}
+.float14
+{	
+	float:right;
+	width:33.33%;
+	background-color:#ff8040;
+	border:2px solid #c34a2c;
+	border-radius:5px;
+	FONT-SIZE:14.5px;
+}
+.float14 p
+{
+	padding:5px;
+}
+.float15
+{	
+	float:right;
+	width:33.33%;
+	background-color:#c34a2c;
+	border:2px solid #c34a2c ;
+	text-align:justify;
+}
+.float15 video
+{
+	width:100%;
+}
+.float15 h1
+{
+	background: rgb(242,150,28);
+	background: linear-gradient(90deg, rgba(242,150,28,1) 15%, rgba(225,131,77,1) 55%);
+	text-align:center;;
+}
+.clear{
+	clear:both;
+}
+
+.main-box6
+{
+	margin:50px 150px ;
+	width:80%;
+	padding:100px;
+	background-color:#50ebec;
+}
+.float16
+{
+	float:left;
+	width:33.33%;
+	background-color:#7dfdfe;
+	border:2px solid #0affff;
+}
+.float16 img
+{
+	background-image:url('../img/autumn.jpg');
+	background-size:cover;
+	width:100%;
+}
+.float17
+{	
+	float:right;
+	width:33.33%;
+	background-color:#7dfdfe;
+	border:2px solid #0affff;
+	border-radius:5px;
+	FONT-SIZE:14.5px;
+}
+.float17 p
+{
+	padding:5px;
+}
+.float18
+{	
+	float:right;
+	width:33.33%;
+	background-color:#7dfdfe;
+	border:2px solid #0affff;
+	text-align:justify;
+}
+.float18 video
+{
+	width:100%;
+}
+.float18 h1
+{
+	background: rgb(28,242,240);
+	background: radial-gradient(circle, rgba(28,242,240,1) 15%, rgba(77,225,181,1) 55%);
+	text-align:center;;
+}
+.clear{
+	clear:both;
+}

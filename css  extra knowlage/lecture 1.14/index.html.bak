@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			flex properties:
+		</title>
+		<link href="css/style.css" rel="stylesheet">
+	</head>
+	<body>
+	
+		<section class="main">
+			<h1>DISPLAY : FLEX</h1>
+			<div class="container">
+				<div class="row">
+						<div class=" row flex">
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+						</div>
+				</div>
+			</div>
+		</section>
+		<BR>
+		<BR>
+		<BR>
+		<section class="main">
+			<h1>FLEX-WRAP  :  WRAP</h1>
+			<div class="container">
+				<div class="row">
+						<div class=" row wrap">
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+						</div>
+				</div>
+			</div>
+		</section>
+		<br>
+		<br>
+		<br>
+		<section class="main">
+			<h1>FLEX-WRAP : NO-WRAP</h1>
+			<div class="container">
+						<div class="no-wrap">
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+						</div>
+				</div>
+		</section>
+		<br>
+		<br>
+		<br>
+		<section class="main">
+			<h1>FLEX-WRAP  :  WRAP-REVERSE</h1>
+			<div class="container">
+				<div class="row">
+						<div class=" row wrap-reverse">
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+						</div>
+				</div>
+			</div>
+		</section>
+		<br>
+		<br>
+		<br>
+		<section class="main">
+			<h1>FLEX-DIRECTION  :  ROW</h1>
+			<div class="container">
+				<div class="row">
+						<div class=" row direction-row">
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+						</div>
+				</div>
+			</div>
+		</section>
+		<br>
+		<br>
+		<br>
+		<section class="main">
+			<h1>FLEX-DIRECTION  :  ROW-REVERSE</h1>
+			<div class="container">
+				<div class="row">
+						<div class=" row row-reverse">
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+						</div>
+				</div>
+			</div>
+		</section>
+		<br>
+		<br>
+		<br>
+		<section class="main">
+			<h1>FLEX-DIRECTION  :  COLUMN</h1>
+			<div class="container">
+				<div class="row">
+						<div class=" row direction-column">
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+						</div>
+				</div>
+			</div>
+		</section>
+		<br>
+		<br>
+		<br>
+		<section class="main">
+			<h1>FLEX-DIRECTION  :  COLUMN-REVERSE</h1>
+			<div class="container">
+				<div class="row">
+						<div class=" row height column-reverse">
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+						</div>
+				</div>
+			</div>
+		</section>
+		<br>
+		<br>
+		<br>
+		<section class="main">
+			<h1>FLEX-FLOW</h1>
+			<div class="container">
+				<div class="row">
+						<div class=" row flow">
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+							<div class="box"></div>
+						</div>
+				</div>
+			</div>
+		</section>
+	
+	</body>
+</html>
+

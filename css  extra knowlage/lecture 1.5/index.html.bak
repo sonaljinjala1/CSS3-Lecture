@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			Whatsapp Chats:
+		</title>
+		<link href="img/whatsapp.png" rel ="icon">
+		<link href="fonts/stylesheets.css" rel="stylesheet">
+		<link href="css/stylesheet.css" rel="stylesheet">	
+		<link href="css/all.min.css" rel="stylesheet">	
+
+	</head>
+	<body>
+	
+		<div class="box1">
+			<div class="box2">
+				<TABLE height="80px" width="100%" border="0">
+					<tr>
+						<td>
+							<span>
+								<i class="fa-solid fa-circle-user fa-lg"></i>
+							</span>
+						</td>
+						<td width="10%"></td>
+						<td >
+							<i class="fa-solid fa-bullhorn fa-lg"></i>
+						</td>
+						<td>
+							<i class="fa-solid fa-users"></i>
+						</td>
+						<td>
+							<i class="fa-sharp fa-regular fa-circle-notch fa-lg"></i>
+						</td>
+						<td >
+							<i class="fa-solid fa-comment-medical fa-lg"></i>
+						</td>
+						<td >
+							<i class="fa-solid fa-message fa-lg"></i>
+						</td>
+						<td>
+							<i class="fa-solid fa-ellipsis-vertical fa-lg"></i>
+						</td>
+						<td >
+							<span>
+								<i class="fa-solid fa-circle-user fa-lg" ></i>
+							</span>
+						</td>
+						<td width="15%">
+							Khusi<br>last seen yesterday at 12.09
+						</td>
+						<td width="60%"></td>
+						<td>
+							<i class="fa-solid fa-magnifying-glass fa-lg"></i>
+						</td>
+						<td >
+							<i class="fa-solid fa-ellipsis-vertical fa-lg"></i>
+						</td>
+					</tr>
+				</TABLE>
+			</div>
+		</div>
+		
+		 <div class="box3">
+			<div class="box4">
+				<table height="60px" width="100%" border="0">
+					<tr>
+						<td>
+							<i class="fa-solid fa-bars fa-lg"></i>
+						</td>
+						<td  bgcolor="#F9B7FF" width="70%"></td>
+					</tr>
+				</table>
+			</div>
+			<div class="box16">
+				<i class="fa-solid fa-magnifying-glass fa-lg"></i>   Search or Start your new chats
+			</div>
+		</div>
+		 
+		<div class="box5">
+			<table height="550px" width="100%" border="0">
+				<tr>
+					<td bgcolor="#E9CFEC">
+						<div class="box6">
+							<i class="fa-solid fa-circle-user fa-lg" ></i>
+							<h6>
+								💫Fy girl's ❤️‍🔥
+							</h6>	
+							<span><i class="fa-regular fa-clock fa-lg"></i>    heyyy </span> 	
+						</div>
+						<hr>
+						<div class="box7">
+							<i class="fa-solid fa-circle-user fa-lg"></i>
+							<h6>Mama-Bhanja group</h6>
+							<span><i class="fa-regular fa-clock fa-lg"></i>    Mamu:send a video</span>
+						</div>
+						<hr>
+						<div class="box8">
+							<i class="fa-solid fa-circle-user fa-lg"></i>
+							<h6>✌️☆ѕуѕтυммм☆ ✨</h6>
+							<span><i class="fa-regular fa-clock fa-lg"></i>      lizaaaaa:heloooo guys..!</span>
+						</div>
+						<hr>
+						<div class="box9">
+							<i class="fa-solid fa-circle-user fa-lg"></i>
+							<h6>Brijal</h6>
+							<span><i class="fa-solid fa-check-double fa-lg" style="color: #13abf6;"></i>    sent a photo</span>
+						</div>
+						<hr>
+						<div class="box10">
+							<i class="fa-solid fa-circle-user fa-lg"></i>
+							<h6>Labdhi Society</h6>
+							<span><i class="fa-regular fa-clock fa-lg"></i>   maintanence info.:       </span>
+						</div>
+						<hr>
+						<div class="box11">
+							<i class="fa-solid fa-circle-user fa-lg"></i>
+							<h6>Dishuuu</h6>
+							<span><i class="fa-solid fa-check-double fa-lg"></i>deleted the messege</span>
+						</div>
+						<hr>
+						<div class="box12">
+							<i class="fa-solid fa-circle-user fa-lg"></i>
+							<h6>dhruvi</h6>
+							<span>hey can u send me those pics...</span>
+						</div>
+						<hr>
+						<div class="box13"></div>
+					</td>
+					
+					<td width="70%" bgcolor="#F9B7FF">
+						
+						<div class="box14">
+							<i class="fa-regular fa-face-laugh-beam fa-lg"></i>
+							<i class="fa-solid fa-plus fa-lg"></i>
+							<div class="box15"></div>
+							<span><i class="fa-solid fa-microphone fa-lg" style="font-size:40px;"></i></span>
+							<div class="box17">
+								<h4>Hey ! Have you seen Whatsapp web feature???</h4>
+								<span>02:00</span>
+								<i class="fa-solid fa-check-double fa-lg" style="color: #13abf6;"></i>   
+							</div>
+							<div class="box18">
+								<h4>yeah...it's awsummmmm</h4>
+								<span>02:00</span>
+							</div>
+							<div class="box19">
+								<h4>Find more details on <a href=""></a>,i have just published an article about it.</h4>
+								<span>02:00
+								<i class="fa-solid fa-check-double fa-lg" style="color: #13abf6;"></i>
+								</span>
+							</div>
+							<div class="box20">
+								<h4> 22 JANUARY 2015</h4>
+							</div>
+						</div>	
+					</td>	
+				</tr>
+			</table>
+			
+		</div>
+	   
+	</body>
+</html>

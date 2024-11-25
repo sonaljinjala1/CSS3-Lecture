@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Rubik Broken Fax';
+    src: url(../font/RubikBrokenFax-Regular.woff2') format('woff2'),
+        url(../font/RubikBrokenFax-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

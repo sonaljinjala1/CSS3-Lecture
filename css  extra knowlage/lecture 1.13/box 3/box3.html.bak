@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			box 3:
+		</title>
+		<link href="css/all.min.css" rel="stylesheet">
+		<link href="css/style.css" rel="stylesheet">
+	</head>
+	<body>
+	
+		<section>
+			<div class="container">
+			<div class="mmain">
+				<div class="main">
+					<div class="box"></div>
+					<div class="content">
+							<h1>PROFILE CARD</h1>
+							<h3>HOVER EFFECT</h3>
+							<h6>CSS TUTORIALS</h6>
+					</div>
+				</div>
+				<div class="box1">
+					<div class="icon">
+						<i class="fa-solid fa-user fa-4x"></i>
+					</div>
+					<div class="content">
+						<h1>Jane Doe</h1>
+						<h4>Designer</h4>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has  the 1500s, Lorem dummy text.</p>
+						<button><h5>CONTACT ME</h5></button>
+					</div>
+				</div>
+			</div>
+			</div>
+		</section>
+	
+	</body>
+</html>

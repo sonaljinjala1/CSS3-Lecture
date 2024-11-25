@@ -1,0 +1,120 @@
+*
+{
+	margin:0;
+	box-sizing:border-box;
+}
+.container
+{
+	margin:0 50px;
+	max-width:1140;
+}
+.box1
+{
+	margin:50px;
+	width:40%;
+	border:10px double #5CB3FF;
+	text-align:justify;
+	padding:20px;
+	border-radius:10px 20px 0px 20px;
+	background-color:#4169E1;
+	display:inline-block;
+}
+.box2
+{
+	margin:50px;
+	width:40%;
+	background-image:url('../img/1.jpg');
+	background-size:cover;
+	background-color:rgba(0,0,0,0.6);
+	background-blend-mode:darken;
+	border:5px solid #5CB3FF ;
+	text-align:justify;
+	padding:20px;
+	border-radius:30px;
+	display:inline-block;
+	font-size:20px;
+	color:#6960ec;
+}
+.box3
+{
+	margin:50px;
+	width:40%;
+	background:background: rgb(242,28,230);
+	background: radial-gradient(circle, rgba(242,28,230,1) 10%, rgba(221,96,151,1) 46%, rgba(208,77,225,1) 87%);;
+	border:10px double BLACK;
+	text-align:justify;
+	padding:20px;
+	border-radius:10px 20px 0px 20px;
+	display:inline-block;
+}
+.box4
+{
+	margin:50px;
+	width:40%;
+	border:5px solid black;
+	text-align:justify;
+	padding:20px;
+	border-radius:30px;
+	display:inline-block;
+	background-image:url('../img/2.jpg');
+	background-size:cover;
+	font-size:20px;
+	color:#fcdfff;
+}
+.box5
+{
+	margin:50px;
+	width:40%;
+	background-color:#6960ec;
+	border:10px double black;
+	text-align:justify;
+	padding:20px;
+	border-radius:10px 20px 0px 20px;
+	display:inline-block;
+}
+.box6
+{
+	margin:50px;
+	width:40%;
+	background-size:cover;
+	border:5px solid black;
+	text-align:justify;
+	padding:20px;
+	border-radius:30px;
+	display:inline-block;
+	background-image:url('../img/3.jpg');
+	background-color:rgba(0,0,0,0.5);
+	background-blend-mode:darken;
+	background-size:cover;
+	font-size:20px;
+	color:white;
+}
+.box7
+{
+	margin:50px;
+	width:40%;
+	background-color:#EB5406;
+	border:10px double BLACK;
+	text-align:justify;
+	padding:20px;
+	border-radius:10px 20px 0px 20px;
+	display:inline-block;
+}
+.box8
+{
+	margin:50px;
+	width:40%;
+	background-image:url('../css/img/img.png');
+	background-color:rgba(0,0,0,0.5);
+	background-blend-mode:darken;
+	background-size:cover;
+	border:5px solid #C34A2C;
+	text-align:justify;
+	padding:20px;
+	border-radius:30px;
+	display:inline-block;
+	background-image:url('../img/4.jpg');
+	background-size:cover;
+	font-size:20px;
+	color:#fa8072;
+}
